@@ -5,3 +5,7 @@ natürlich ´n ikon
 ;-))
 oin commit hinterm master.
 erledigt.
+jetzt wieder bei lies-mich.
+erst mal pull-request, dann mergen, dann löschen.
+wm. 17:50.
+
